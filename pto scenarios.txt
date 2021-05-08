@@ -1,0 +1,24 @@
+1.user actual exist
+2.user schedule exist no actual.
+3.both actual and future
+4.Timeoff exist 
+PTO overlap and pto not overlap(1)
+PTO overlap and pto not overlap(2)
+actual not overlap but schedule overlap
+not edit permission but schedule not overlap
+not edit permission but schedule overlap
+not edit permission exist but other timeoff exist
+
+
+
+This request cannot be approved as an already approved Time Off shift overlaps with this one. Please update the current request and approve again.
+
+past date approved time off overlap- message shuld apper with ok button.
+future date  approved time off overlap - message shuld apper with ok button.
+schedule or time off overlap with future schedule -tabular with yes no.
+
+issues on saterday
+1.Add time off modal is getting closed when press on ok button during overlap.
+2.cation change not overlap no edit permission.(message for requested entry)
+3.PTO UTO past dated message need to be changed. Actual shift will replace with existing shhift.
+
